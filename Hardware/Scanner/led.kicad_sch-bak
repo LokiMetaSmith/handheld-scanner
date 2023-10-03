@@ -796,6 +796,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8b6e08c0-0edf-49b9-9523-7a523e31d54f)
   )
+  (text "Optimal values.\n\nGrouping is 10% +/- and not likely to work, \nspread is 35nm, and so need 5nm per step to have a four bit differentiation\nSpectral FWHM (Full Width at Half Maximum) needs to be 5nm\n1180nm\n1200nm\n1215nm\n\nGrouping is 10% +/- and not likely to work\n1680nm \n1700nm \n1720nm \n1740nm"
+    (at 213.36 132.08 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b5a72f59-178a-405b-ab65-d5a3dbd5ee32)
+  )
 
   (global_label "SCL" (shape bidirectional) (at 85.09 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
