@@ -1344,11 +1344,6 @@
       (net 46 "unconnected-(U3-NC-Pad5)") (pinfunction "NC") (pintype "no_connect") (tstamp 512276c1-05af-47b3-82ab-5cb1a23226b4))
     (pad "6" smd rect (at 1.45 -1.4 270) (size 1.6 0.75) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "/InGaS Sensor/Cathode") (pinfunction "Cathode") (pintype "bidirectional") (tstamp ac7432d3-736e-4f3b-a4e9-6ec784df1393))
-    (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (layer "F.Cu")
