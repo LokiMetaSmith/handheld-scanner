@@ -952,7 +952,6 @@
   )
 
   (bus_alias "I2C" (members "SDA" "SCL"))
-
   (junction (at 257.81 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 3e7f19aa-4a30-4a1b-bb7c-29cfb2776aa1)
   )
