@@ -1,5 +1,5 @@
 Drill report for RoundScanner.kicad_pcb
-Created on 6/19/2023 6:06:44 PM
+Created on 11/10/2023 4:14:59 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -12,11 +12,11 @@ Copper Layer Stackup:
 Drill file 'RoundScanner-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (72 holes)
+    T1  0.400mm  0.0157"  (81 holes)
     T2  1.000mm  0.0394"  (8 holes)
     T3  2.200mm  0.0866"  (2 holes)
 
-    Total plated holes count 82
+    Total plated holes count 91
 
 
 Drill file 'RoundScanner-NPTH.drl' contains

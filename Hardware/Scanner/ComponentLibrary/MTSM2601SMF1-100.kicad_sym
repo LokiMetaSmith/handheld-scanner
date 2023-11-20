@@ -18,18 +18,18 @@
     (property "ki_description" "High Speed InGaAs PIN Photodiode, Sensitivity Wavelength Range: 800nm~2600nm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MTSM1346SMF1-100_0_1"
-      (rectangle (start -8.89 1.27) (end 8.89 -8.89)
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-    )
-    (symbol "MTSM1346SMF1-100_1_0"
+    (symbol "MTSM1346SMF1-100_0_0"
       (text_box "Sensitivity Wavelength Range: 600nm~1750nm\n"
         (at -8.89 -8.89 0) (size 16.51 -10.16)
         (stroke (width 0) (type default))
         (fill (type color) (color 0 0 0 0))
         (effects (font (size 1.27 1.27)) (justify left top))
+      )
+    )
+    (symbol "MTSM1346SMF1-100_0_1"
+      (rectangle (start -8.89 1.27) (end 8.89 -8.89)
+        (stroke (width 0) (type default))
+        (fill (type none))
       )
     )
     (symbol "MTSM1346SMF1-100_1_1"
@@ -109,7 +109,7 @@
         (name "Cathode" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 11.43 -3.81 180) (length 2.54)
+      (pin passive line (at 11.43 -3.81 180) (length 2.54)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
       )
