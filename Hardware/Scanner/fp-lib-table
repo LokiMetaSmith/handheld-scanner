@@ -13,4 +13,5 @@
   (lib (name "TLC59208FIPWR")(type "KiCad")(uri "${KIPRJMOD}/footprints/TLC59208FIPWR.pretty")(options "")(descr ""))
   (lib (name "BSS138DW-7-F-A")(type "KiCad")(uri "${KIPRJMOD}/footprints/BSS138DW-7-F-A.pretty")(options "")(descr ""))
   (lib (name "MTSM2601SMF1-100")(type "KiCad")(uri "${KIPRJMOD}/ComponentLibrary/MTSM2601SMF1-100.pretty")(options "")(descr ""))
+  (lib (name "round_module")(type "KiCad")(uri "${KIPRJMOD}/footprints/round_module.pretty")(options "")(descr ""))
 )
